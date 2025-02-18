@@ -15,7 +15,7 @@ export default function TopBar() {
           <div className="flex space-x-6">
             <a href="tel:+255717203759" className="flex items-center space-x-2 text-sm hover:text-[#00FFFF]">
               <Phone className="w-4 h-4" />
-              <span>+255 717 203 759</span>
+              <span>+255 717 321 753</span>
             </a>
             <a href="mailto:info@ditronics.co.tz" className="flex items-center space-x-2 text-sm hover:text-[#00FFFF]">
               <Mail className="w-4 h-4" />

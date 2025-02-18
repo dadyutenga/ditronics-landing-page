@@ -56,7 +56,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>Tanzania</li>
               <li>info@ditronics.co.tz</li>
-              <li>+255 717 203 759</li>
+              <li>+255 717 321 753</li>
             </ul>
             <div className="flex space-x-4 mt-4">
               <a href="#" className="text-gray-400 hover:text-[#00FFFF]">
